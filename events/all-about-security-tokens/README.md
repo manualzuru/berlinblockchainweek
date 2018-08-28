@@ -28,6 +28,10 @@ name: All About Security Tokens
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
+    Brickblock and Neufund welcome the Berlin Blockchain Week attendees to join 
+    us, on September the 5th for an AMA session about Security Tokens. Stay 
+    after the event for networking and drinks in an amazing location.
+  -
     'Topics to discuss:'
   -
     list:
@@ -43,6 +47,10 @@ synopsis:
         security token exchanges especially
     - 'Opportunities for the future growth: what do we expect to happen in the
         security tokens field in 2019'
+  -
+    The AMA will be moderated by Stefano Bernardi, a co-author of Token Economy,
+    and an active venture and angel investor, having invested in more than 50 
+    companies. Early ETH ICO participant, and Bitcoin enthusiast since 2009.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -52,6 +60,9 @@ date: 2018-09-05
 # _Only_ the starting time!
 # Example: '18:00'
 time: '19:00'
+
+# Time when the event ends. Can be left empty.
+endTime: '22:30'
 
 # The URL where to adquire the tickets. Can be left empty.
 tickets: https://www.eventbrite.com/e/all-about-security-tokens-tickets-48412538205
@@ -86,6 +97,30 @@ category: panel
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
+  -
+    name: Stefano Bernardi
+    title: Co-Founder
+    company: Token Economy
+  -
+    name: Gonzalo Sanchez Slik
+    title: Head of Investor Relations
+    company: Brickblock
+  -
+    name: Alex Molé
+    title: Investor Relations Manager
+    company: Neufund
+  -
+    name: Yamila Eraso
+    title: Lawyer
+    company: LACORE Rechtsanwälte LLP
+  -
+    name: Colin Nimsz
+    title: Head of Finance & Operations
+    company: Brickblock
+  -
+    name: Marc-Olivier Lücke
+    title: Partner
+    company: Atlantic Labs
 # -
 #   # Required.
 #   name:
